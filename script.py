@@ -29,13 +29,13 @@ HelpTxT = ▸ ᴀᴅᴅ ᴛʜɪꜱ ʙᴏᴛ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ
 /status  -  ꜱʜᴏᴡꜱ ᴄᴜʀʀᴇɴᴛ ꜱᴛᴀᴛᴜꜱ ᴏꜰ ʏᴏᴜʀ ʙᴏᴛ (ᴀᴜᴛʜ ᴜꜱᴇʀ ᴏɴʟʏ)
 /id  -  ꜱʜᴏᴡꜱ ɪᴅ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ
 /info userid  - ꜱʜᴏᴡꜱ ᴜꜱᴇʀ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ. ᴜꜱᴇ <code>/info</code> ᴀꜱ ʀᴇᴘʟʏ ᴛᴏ ꜱᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇ ꜰᴏʀ ᴛʜᴇɪʀ ᴅᴇᴛᴀɪʟꜱ!
-© @leaningbots79
+
 """
 
 AboutTxT = """
-⭕️ My Name : TroJanz Filter Bot</b>
-⭕️ Developers : @TroJanzHEX 
-⭕️ Upgrader : @learnibgbots79
+⭕️ My Name : AllHub Filter Bot</b>
+⭕️ Developers : Flimy4star
+⭕️ Upgrader : @Flimy4star
 ⭕️ Language : Python3
-⭕️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 2.0.102</a> 
+⭕️ Library : <a href='#'>Pyrogram 2.0.102</a> 
 """
